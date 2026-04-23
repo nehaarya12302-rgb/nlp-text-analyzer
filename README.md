@@ -14,7 +14,10 @@ A simple NLP project built using Python.
 - TextBlob
 
 ## How to Run
-pip install -r requirements.txt  
+
+```bash
+pip install -r requirements.txt
 python main.py
+```
 
 Project by Neha Arya
