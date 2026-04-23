@@ -16,3 +16,5 @@ A simple NLP project built using Python.
 ## How to Run
 pip install -r requirements.txt  
 python main.py
+
+Project by Neha Arya
