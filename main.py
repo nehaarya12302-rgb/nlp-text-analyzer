@@ -11,6 +11,7 @@ text = input("Enter your text: ")
 
 tokens = word_tokenize(text)
 print("\nTokens:", tokens)
+print("\nWord Count:", len(tokens))
 
 stemmer = PorterStemmer()
 stems = [stemmer.stem(word) for word in tokens]
